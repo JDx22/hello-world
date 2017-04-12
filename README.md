@@ -1,3 +1,2 @@
 # hello-world
-Testing ...
 Hello world blabal
